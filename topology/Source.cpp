@@ -23,7 +23,7 @@ int main()
 	{
 		cin >> par1;
 		cin >> par2;
-
+		 
 		if (par1 == -1 && par2 == -1)
 			continue;
 		else if (par1 == -1)
